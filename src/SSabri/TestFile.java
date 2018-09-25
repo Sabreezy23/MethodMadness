@@ -4,7 +4,7 @@ package SSabri;
 import static SSabri.SSabriLib.*;
 
 public class TestFile {
-    public static void main(String[] arge) {
+    public static void main(String[] args) {
         boolean a = isPalindrome("lol");
         System.out.println(a);
 
